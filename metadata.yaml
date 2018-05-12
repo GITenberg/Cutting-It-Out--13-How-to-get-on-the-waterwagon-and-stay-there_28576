@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5660'
     url: http://www.gutenberg.org/2009/agents/5660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28576#Cutting-It-Out--13-How-to-get-on-the-waterwagon-and-stay-there
 gutenberg_issued: '2009-04-22'
 gutenberg_type: Text
 identifiers:
