@@ -1,0 +1,28 @@
+_repo: Cutting-It-Out--13-How-to-get-on-the-waterwagon-and-stay-there_28576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blythe, Samuel G. (Samuel George)
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '5660'
+    url: http://www.gutenberg.org/2009/agents/5660
+description: ''
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28576'
+  lccn: '12010637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drinking of alcoholic beverages'
+- !lcsh 'Alcoholism'
+- !lcc 'HV'
+title: "Cutting It Out\r\nHow to get on the waterwagon and stay there"
+url: http://www.gutenberg.org/ebooks/28576
